@@ -1,6 +1,4 @@
-# Aphasia_LLM
-
-Simulating Aphasia through Weight Modifications in Pretrained Large Language Models 
+# Simulating Aphasia through Weight Modifications in Pretrained Large Language Models 
 
 Comments:
 1.	Is there evidence that damaging large language models can produce aphasia-like responses?
