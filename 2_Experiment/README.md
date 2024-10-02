@@ -1,5 +1,7 @@
 We currently have two ways of modifying the LLM: adding noise and zeroing.
 
+Adding Noise
+
 | % Modification    | % Noise    | Conclusion                                    |
 |-------------------|------------|-----------------------------------------------|
 | 100               | 10         | Nonsense long output for every layer          |
@@ -11,10 +13,18 @@ We currently have two ways of modifying the LLM: adding noise and zeroing.
 | 10                | 1         | Not enough modification |
 | 1                | 10         | Not enough modification|
 
+Zeroing
+
 | % Modification    | Conclusion                                    |
 |-------------------|-----------------------------------------------|
 | 5               | Not enough modification          |
-| 10               | Word changes          |
-| 20               | Word changes         |
+| 10               | minor word changes          |
+| 20               | minor word changes         |
+| 30               | minor word changes         |
+| 40               | minor word changes         |
+| 50               | minor word changes         |
+| 60               | minor word changes         |
+
+
 
     
