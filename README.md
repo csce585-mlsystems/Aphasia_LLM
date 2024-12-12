@@ -1,5 +1,8 @@
 # Simulating Aphasia through Weight Modifications in Pretrained Large Language Models 
-
+## **Final Report**:
+https://github.com/csce585-mlsystems/Aphasia_LLM/blob/main/585FinalReport.pdf
+## **YouTube Presentation**:
+https://www.youtube.com/watch?v=6F_hqCBvMXw
 ## **Comments**:
 1.	Is there evidence that damaging large language models can produce aphasia-like responses?
 This is the key question that we aim to investigate. There is no existing research on whether this is possible or not, making this project novel and compelling.
